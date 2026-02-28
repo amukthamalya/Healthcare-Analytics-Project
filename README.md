@@ -33,13 +33,13 @@ This project demonstrates how data analytics can support healthcare decision-mak
 ##Power BI Dashboard
 
 ### Top 10 Hospitals by Total Waiting List 
-![Top 10 Hospitals] (images/dashboard1.png)
+![Top 10 Hospitals] (dashboard1.png)
 
 ### Waiting Time Distribution
-![Waiting Time Distribution] (images/dashboard2.png)
+![Waiting Time Distribution] (dashboard2.png)
 
 ### 18+ Month Waiting KPI
-![18+ Month KPI] (images/dashboard3.png)
+![18+ Month KPI] (dashboard3.png)
 
 
 
