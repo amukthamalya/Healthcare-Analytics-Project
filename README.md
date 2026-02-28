@@ -1,5 +1,5 @@
 # Healthcare-Analytics-Project
-Healthcare data analytics and predictive modelling project
+Healthcare Waiting List Operational Analysis - Ireland 2025
 
 ## Business Problem
 Hospitals want to analyse patient data to identify patterns and improve healthcare outcomes.
