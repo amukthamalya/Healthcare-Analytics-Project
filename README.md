@@ -30,7 +30,7 @@ This project demonstrates how data analytics can support healthcare decision-mak
 
 
 
-##Power BI Dashboard
+## Power BI Dashboard
 
 ### Top 10 Hospitals by Total Waiting List 
 ![Top 10 Hospitals] (dashboard1.png)
