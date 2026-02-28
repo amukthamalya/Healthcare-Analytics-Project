@@ -41,7 +41,7 @@ This project demonstrates how data analytics can support healthcare decision-mak
 ### 18+ Month Waiting KPI
 ![18+ Month KPI](dashboard3.png)
 
-
+This visual highlights hospitals with the highest backlog, indicating regional capacity pressure in major urban centers.
 
 
 
