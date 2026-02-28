@@ -1,4 +1,4 @@
-# Healthcare-Analytics-Project
+#  a  as# Healthcare-Analytics-Project
 Healthcare Waiting List Operational Analysis - Ireland 2025
 
 ## Business Problem
@@ -27,3 +27,25 @@ Model performance and key insights will be documented here.
 
 ## Business Impact
 This project demonstrates how data analytics can support healthcare decision-making.
+
+
+
+##Power BI Dashboard
+
+### Top 10 Hospitals by Total Waiting List 
+![Top 10 Hospitals] (dashboard1.png)
+
+### Waiting Time Distribution
+![Waiting Time Distribution] (dashboard2.png)
+
+### 18+ Month Waiting KPI
+![18+ Month KPI] (dashboard3.png)
+
+
+
+
+
+
+
+
+
